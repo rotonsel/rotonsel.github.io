@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotonsel.github.io/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/app/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/assets/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/css/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/includes/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/item/sitemap.html.gz
+Sitemap: https://rotonsel.github.io/src/sitemap.html.gz
